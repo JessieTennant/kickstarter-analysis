@@ -12,10 +12,15 @@
 
 - According to the graph, at the beginning of the year from January to April, the successful outcomes fluctuates between 60 and 80. There is a peak of successful launches in May, and successful launches decrease from June to September, followed with a slight increase from September to October, and then another decrease until the end of the year. The line which shows the failed outcomes follows an identical trend, with fewer outcomes overall. This shows that as the number of successful outcomes increases, the number of failed outcomes also increases. The biggest gap between successes and fails is in May, with 59 more successes than fails. The smallest gap between those numbers is in December, with only 2 more successes than fails. During October, when both the successful outcomes and the failed outcomes slightly increase, there is no cancelled launches. According to both the table and the graph, the number of canceled launches stays below 10 every month. 
 
+![Theater_Outcomes_vs_Launch.png](resources/Theater_Outcomes_vs_Launch.png)
+
 
 ### Analysis of Outcomes Based on Goals
 
 - The graph shows a decrease of percentages of success from less than $1000 to $29999. The percentage of success drops from 76% to 20%. The graph shows an increase from $30000 (20%) to $44999 (67%), and then another drastic decrease to 0% when the goal is $45000 to $49999, and eventually a slight increase at the end when the goal is greater than $50000. According to the table, there were no plays canceled in any goal ranges. Generally speaking, launches with goals of fewer dollar amounts tend to have higher percentages of success, with the exception of $35000 to $49999. It is possible that this exception is due to the fact that there were fewer projects launches in those ranges of goals, so the success or failure of each individual launch affect the percentage greatly. This would explain the lack of an obvious trend in the graph. 
+
+![Outcomes_vs_Goals.png](resources/Outcomes_vs_Goals.png)
+
 
 ### Challenges and Difficulties Encountered
 
