@@ -4,6 +4,8 @@
 
 ### Purpose
 
+- The purpose of this project is to visualize the campaign outcomes based on launch date and their funding goals, in order to analyze the relationships between outcomes and date, and between outcomes and goals. 
+
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
