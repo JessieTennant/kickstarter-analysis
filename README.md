@@ -14,6 +14,7 @@
 
 ![Theater_Outcomes_vs_Launch.png](resources/Theater_Outcomes_vs_Launch.png)
 
+[Kickstarter_Challenges.xlxs](Kickstarter_Challenges.xlxs)
 
 ### Analysis of Outcomes Based on Goals
 
@@ -21,6 +22,7 @@
 
 ![Outcomes_vs_Goals.png](resources/Outcomes_vs_Goals.png)
 
+[Kickstarter_Challenges.xlxs](Kickstarter_Challenges.xlxs)
 
 ### Challenges and Difficulties Encountered
 
